@@ -12,3 +12,57 @@
 body{
   font-family: 'Epilogue', sans-serif;
 }
+
+.container {
+
+}
+
+.nav__img {
+  width: 50px;
+}
+
+.nav__hamburguer {
+  width: 30px;
+  height: 40px;
+  background-image: url("../images/icon-menu.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+  background-color: red;
+}
+
+.nav__overlay {
+
+}
+
+.nav__menu {
+
+}
+
+.nav__item {
+
+}
+
+.nav__parent{ 
+
+}
+
+.nav__arrow {
+
+}
+
+.nav__inner {
+
+}
+
+.nav__dropdown {
+
+}
+
+.nav__link {
+
+}
+
+.nav__illustration {
+
+}
